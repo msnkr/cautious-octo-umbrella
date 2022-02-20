@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/mxnkr/Pictures/wallpaperbetter(18).jpg"
+let background = "#0d0c0f"
+let foreground = "#bcb5b7"
+let cursor     = "#bcb5b7"
+
+" Colors
+let color0  = "#0d0c0f"
+let color1  = "#6C4A37"
+let color2  = "#333748"
+let color3  = "#463C48"
+let color4  = "#3D4354"
+let color5  = "#5F525A"
+let color6  = "#91675B"
+let color7  = "#bcb5b7"
+let color8  = "#837e80"
+let color9  = "#6C4A37"
+let color10 = "#333748"
+let color11 = "#463C48"
+let color12 = "#3D4354"
+let color13 = "#5F525A"
+let color14 = "#91675B"
+let color15 = "#bcb5b7"
